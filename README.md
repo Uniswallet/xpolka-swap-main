@@ -1,10 +1,10 @@
-# RaiSwap Classic Exchange Interface
+# xPolka Classic Exchange Interface
 
 Forked from [Sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/sushiswap-classic-exchange), and updated to work with RaiSwap contracts.
 
-## Accessing the RaiSwap Classic Exchange Interface
+## Accessing the xPolkaSwap Classic Exchange Interface
 
-To access the RaiSwap Exchnage, visit [exchange.rai.finance](https://exchange.rai.finance/#/).
+To access the xPolkaSwap Exchnage, visit [swap.xpolka.finance](https://swap.xpolka.finance/#/).
 
 ## Development
 
